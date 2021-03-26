@@ -1,0 +1,18 @@
+{
+  "name": "nftshard-market",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "ganache-cli": "^6.12.1",
+    "openzeppelin-solidity": "^3.4.1",
+    "truffle-contract-size": "^2.0.1",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {
+    "truffle-plugin-verify": "^0.4.1"
+  }
+}
